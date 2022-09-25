@@ -48,26 +48,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/maxxy_ofc' //Link Instagrammu
-global.sgh = 'https://github.com/' //Link Githubmu
+global.sgh = 'https://github.com/LeoPyth' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282' //Nomor Danamu
-global.ppulsa = '085295374964' //Nomor SimCard Yang Kamu Pake
+global.pdana = '087824899711' //Nomor Danamu
+global.ppulsa = '087824899711' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/MaxxyBotz' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285295374964' //Nomor Bot
-global.nomorown = '6285380166282' //Nomor Owner
-global.namebot = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛' //Nama Bot
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿' // Nama Owner
+global.nomorown = '6287824899711' //Nomor Owner
+global.namebot = 'Fangz' //Nama Bot
+global.nameown = 'Leo' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿', true] //Ganti jd nomormu sama Namamu
+  ['6287824899711', 'Leo', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -90,9 +90,9 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEYMU',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'Apikeymu',
+  'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://violetics.pw': 'beta'
 }
@@ -370,7 +370,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Leo'
 
 global.multiplier = 38 // The higher, The harder levelup
 
